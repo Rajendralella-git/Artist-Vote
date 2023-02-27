@@ -18,7 +18,7 @@ e) application is available at http://localhost:<port>/artists
    http://localhost:8080/artists/vote
    Request Body
    {
-	"artistLable": "van_halen"	
+	"artistLabel": "van_halen"	
    }
    output:
    {
